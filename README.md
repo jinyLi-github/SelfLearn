@@ -36,4 +36,8 @@ This project allowed me to deepen my understanding of Shader Graph and explore p
 Contact
 If you encounter any issues accessing the project files or have questions, please feel free to contact me at (j.li@se24.qmul.ac.uk).
 
+Reference
+3D model from Sketchfab;
+https://www.youtube.com/watch?v=KlMON4Dzq_0
+
 
